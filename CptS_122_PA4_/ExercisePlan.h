@@ -29,6 +29,6 @@ private: //prviate access specifer
 
 };
 
-ExercisePlan(ExercisePlan &ephs); //copy constructor
+ExercisePlan(ExercisePlan &rhs); //copy constructor
 ~ExercisePlan(); //destructor
 

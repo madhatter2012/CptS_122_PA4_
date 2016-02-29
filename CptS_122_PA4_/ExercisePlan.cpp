@@ -11,7 +11,7 @@ ExercisePlan::ExercisePlan(int newGoal, string newName, string newDate)
 	date = newDate;
 };
 
-ExercisePlan::ExercisePlan(ExercisePlan &ephs) //copy constructor
+ExercisePlan::ExercisePlan(ExercisePlan &rhs) //copy constructor
 {
 
 }
